@@ -1,4 +1,4 @@
-# Welcome to [INSERT NAME HERE]
+# What a Wanderful Day
 
 ## CONTACTS
 - Brian
