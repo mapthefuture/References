@@ -1,5 +1,10 @@
-## Welcome to Wanderful
+# What a Wanderful Day
 
+## CONTACTS
+- Brian
+- Charles
+- Joshua // josh@brzinski.com // 4042101817
+- Leonard McMillan Gilbert Bellingrath
 
 
 ## Usage
