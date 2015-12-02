@@ -1,10 +1,10 @@
 # Welcome to [INSERT NAME HERE]
 
 ## CONTACTS
-Brian
-Charles
-Joshua // josh@brzinski.com // 4042101817
-Leonard McMillan Gilbert Bellingrath
+- Brian
+- Charles
+- Joshua // josh@brzinski.com // 4042101817
+- Leonard McMillan Gilbert Bellingrath
 
 
 ## Usage
